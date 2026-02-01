@@ -11,7 +11,7 @@ Security Technical Implementation Guides (STIGs) are configuration standards dev
 
 ## Getting Started
 To use these scripts, your environment must meet the following criteria:
-- OS: Windows 10 or Windows Server 2016+.
+- OS: Windows 10 Pro.
 - PowerShell: Version 5.1 or later.
 - Permissions: Must be executed with Administrative Privileges to modify system-level settings.
 
