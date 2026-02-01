@@ -16,8 +16,8 @@
 .TESTED ON
     Date(s) Tested  : 2025-11-06
     Tested By       : OG
-    Systems Tested  : 
-    PowerShell Ver. : 
+    Systems Tested  : Windows 10 Pro
+    PowerShell Ver. : 5.1
 
 .USAGE
     Example syntax:
